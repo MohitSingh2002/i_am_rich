@@ -1,5 +1,7 @@
 # iamrich
 
+A simple image to display a image in the app.
+
 A new Flutter application.
 
 ## Getting Started
